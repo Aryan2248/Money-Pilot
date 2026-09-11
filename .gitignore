@@ -1,0 +1,7 @@
+node_modules/
+target/
+application.properties
+*.class
+dist/
+.env
+.DS_Store
