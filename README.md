@@ -121,6 +121,3 @@ The forgot-password flow generates a real, time-limited (5-minute) OTP server-si
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
