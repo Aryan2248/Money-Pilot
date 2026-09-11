@@ -5,3 +5,4 @@ application.properties
 dist/
 .env
 .DS_Store
+.idea/
